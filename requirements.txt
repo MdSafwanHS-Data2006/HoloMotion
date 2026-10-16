@@ -1,0 +1,8 @@
+# HoloMotion - Object Detection and Tracking Dependencies
+# Recommended PyTorch CPU install on Fedora Linux:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+
+opencv-python>=4.8.0
+ultralytics>=8.0.0
+lapx>=0.5.5
+numpy>=1.24.0
