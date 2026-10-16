@@ -153,3 +153,9 @@ This verifies:
 3. Open-Vocabulary YOLO-World loads with custom vocabulary.
 4. Video file processing and ByteTrack tracking loop run across consecutive frames.
 5. Camera access and invalid path error handling work gracefully.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
